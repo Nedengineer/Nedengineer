@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **anusha.safdar4568@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1h4tGgMiYGYWBXsrS1_Q72y7PFcEOeIoA](https://drive.google.com/drive/u/0/folders/1h4tGgMiYGYWBXsrS1_Q72y7PFcEOeIoA)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anusha-safdar-6721931a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anusha-safdar-6721931a0/" height="30" width="40" /></a>
@@ -25,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedengineer&show_icons=true&locale=en&layout=compact" alt="nedengineer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nedengineer&show_icons=true&locale=en" alt="nedengineer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedengineer&" alt="nedengineer" /></p>
