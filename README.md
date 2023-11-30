@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anusha-safdar-6721931a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anusha-safdar-6721931a0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anusha.safdar.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anusha.safdar.1/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/annu_safdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/annu_safdar/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/anushasafdar/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/anushasafdar/projects" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anusha safdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha safdar" height="30" width="40" /></a>
+<a href="https://fb.com/anusha safdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anusha safdar" height="30" width="40" /></a>
+<a href="https://instagram.com/anusha safdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anusha safdar" height="30" width="40" /></a>
+<a href="https://www.behance.net/anushasafdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anushasafdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
