@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anusha.safdar4568@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1h4tGgMiYGYWBXsrS1_Q72y7PFcEOeIoA](https://drive.google.com/drive/u/0/folders/1h4tGgMiYGYWBXsrS1_Q72y7PFcEOeIoA)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qaWGrYZ_thlHjBzSabXqs59HEM9GAMph/view?usp=sharing](https://drive.google.com/file/d/1qaWGrYZ_thlHjBzSabXqs59HEM9GAMph/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
