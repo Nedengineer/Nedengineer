@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedengineer" alt="nedengineer" /></a> </p>
 
-- 🔭 I’m currently working at **CodeVative Pvt.Limited**
-
 - 🌱 I’m currently learning **ERPNext,Frappe Framework,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nedengineer](https://github.com/Nedengineer)
